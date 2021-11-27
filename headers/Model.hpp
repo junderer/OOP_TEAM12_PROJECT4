@@ -7,7 +7,7 @@ class Model
 	public:
 		void update();
 		DeskComp* elements();
-		command(int);
+		void command(int);
 };
 
 #endif
