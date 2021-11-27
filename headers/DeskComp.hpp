@@ -10,6 +10,6 @@ class DeskComp
 		std::string display_str();
 		int state();
 		void command();
-}
+};
 
 #endif
