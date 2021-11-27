@@ -8,5 +8,5 @@ class Control
 	void command(int);
 	void refresh();
 	void push(DeskComp);
-}
+};
 #endif

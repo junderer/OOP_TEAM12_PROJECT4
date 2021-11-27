@@ -5,6 +5,6 @@ class View
 	public:
 		void draw();
 		void refresh();
-}
+};
 
 #endif

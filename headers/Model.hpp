@@ -8,6 +8,6 @@ class Model
 		void update();
 		DeskComp* elements();
 		command(int);
-}
+};
 
 #endif
